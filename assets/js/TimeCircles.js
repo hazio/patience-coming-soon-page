@@ -815,22 +815,22 @@
         time: {
             Days: {
                 show: true,
-                text: "Days",
+                text: "Päivää",
                 color: "#FC6"
             },
             Hours: {
                 show: true,
-                text: "Hours",
+                text: "Tuntia",
                 color: "#9CF"
             },
             Minutes: {
                 show: true,
-                text: "Minutes",
+                text: "Minuuttia",
                 color: "#BFB"
             },
             Seconds: {
                 show: true,
-                text: "Seconds",
+                text: "Sekunttia",
                 color: "#F99"
             }
         }
