@@ -263,7 +263,7 @@ nav section {
  
 .default-style .left-block
 {
-	background: #417378;
+	 background: #f8faeb;
 }
 .left-content {
 	text-align:center;
@@ -293,7 +293,7 @@ nav section {
 ----------------------------------------*/
 
 .right-block {
-	 background: #f8faeb;
+	background: #417378;
 }
 .right-content {
 	text-align: center;
